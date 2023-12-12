@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: ede38d42eb61ae1499e930d4afe98466
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 378
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2179c75d29714bb06731a8cfc46f7
+      internalID: 805933436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 377
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3ac3aa51f395342a8105524e0da8a1
+      internalID: -993950497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 298
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39e058e592f0fb41b94063ec75e1004
+      internalID: -1558786818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 298
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5675453, y: 0.5225151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b909582f2e13cf94aaefd9349dd6a064
+      internalID: 157117518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 114
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae40bf18a6837244897c364b11fa0421
+      internalID: 1915660193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa247b565a95d544a3af099592cdf70
+      internalID: -1624779918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 132
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.49999982, y: 0.4549694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686ab79e16c92d44981a1f945811844b
+      internalID: 904295015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 91
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdc4dde4b459494f81df29e2407c8e2
+      internalID: -1527546755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 46
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941363d992015854f814fa9dd3dbbef5
+      internalID: 204688698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 71
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9f85222a97aa2448a3e81eb4a9c21a
+      internalID: 153084099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea356d67bc6d757488b9a8c401102dc0
+      internalID: -1220323027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 28
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513d045e91552e14f98ea15a903cc235
+      internalID: 75509634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_0: 458531074
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_1: 2035208362
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_10: 587774300
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_11: -1628546130
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_12: 1821112931
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_13: -1135511906
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_14: -1984807601
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_15: -1163045692
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_16: -1558786818
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_17: 157117518
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_18: -2098523479
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_19: -454870907
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_2: 455666219
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_20: -2094015931
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_21: -263432698
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_22: 131110746
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_23: -248312706
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_24: -590421891
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_25: 1175920387
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_26: 52022437
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_27: 1674660474
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_28: 80733959
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_29: -195973730
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_3: 805933436
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_30: -1871888832
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_31: 829449718
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_32: 615191113
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_33: 979856409
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_34: -880670945
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_35: 1001687877
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_36: 756003967
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_37: -168557392
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_38: -748525045
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_39: -1971944542
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_4: -993950497
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_40: 1787869619
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_41: -1980747737
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_42: -1328867964
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_43: 876504082
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_44: -509493498
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_45: -189972551
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_46: 133239602
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_47: 298969001
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_48: 1915660193
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_49: -1160686308
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_5: 1578180796
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_50: 539694838
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_51: 1769080689
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_52: 991263097
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_53: -420414884
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_54: -1835818929
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_55: -1624779918
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_56: -1771358805
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_57: 904295015
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_58: -1598882848
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_59: 2139450828
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_6: 1870412704
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_60: -1138794693
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_61: -227025797
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_62: -2009944672
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_63: -635984438
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_64: -1988222230
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_65: -1309950171
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_66: -2129492981
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_67: -1527546755
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_68: -41334777
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_69: -1666616284
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_7: -404819285
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_70: -500241323
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_71: -465065106
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_72: -2010412497
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_73: 1922720864
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_74: 1687347432
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_75: 1442341829
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_76: -1832906293
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_77: 204688698
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_78: 153084099
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_79: -711801700
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_8: -51643894
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_80: 211302252
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_81: -1258423225
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_82: 2120111938
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_83: 2141151390
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_84: 1411699119
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_85: -1220323027
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_86: -1317543686
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_87: 75509634
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_88: 1727449500
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_89: -1010005405
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_9: -2119486386
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_90: 450835222
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_91: 210833697
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_92: 1805576338
+      imgbin-super-meat-boy-sprite-video-game-sprite-g8c1fSvCqLx9EFiaBxJXDWcqV-removebg-preview_93: -684321913
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
